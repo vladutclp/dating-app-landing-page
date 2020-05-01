@@ -154,6 +154,9 @@ a.active, a:hover{
 	.main-container{
 		display: none;
 	}
+	.join{
+		display: block; 
+	}
 }
 
 
